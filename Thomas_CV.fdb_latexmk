@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1565016425 "Thomas_CV.tex" "Thomas_CV.pdf" "Thomas_CV" 1565016425
+["pdflatex"] 1565543174 "Thomas_CV.tex" "Thomas_CV.pdf" "Thomas_CV" 1565543175
   "/Users/timothythomas/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi1095.600pk" 1564534921 26844 45db1c4d81f32458a459ecaa9ff391ab ""
   "/Users/timothythomas/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1095.600pk" 1564534922 21792 c3de2117cc41643f7deaacdef3c3ba69 ""
   "/Users/timothythomas/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1095.600pk" 1564534921 24004 7c4504d143c426ba8e5085485a45eebf ""
@@ -56,12 +56,12 @@
   "/Users/timothythomas/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1564529962 203923 3ad874152be8b103d1ada1d617caa427 ""
   "/Users/timothythomas/Library/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt" 1564529273 800440 5e204066603afdc30889708af7273509 ""
   "/Users/timothythomas/Library/TinyTeX/texmf.cnf" 1564529338 682 79e5ad588cb20b4f5a8941cc719c08d2 ""
-  "Thomas_CV.aux" 1565016425 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
-  "Thomas_CV.out" 1565016425 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Thomas_CV.tex" 1565016423 25494 e353ea56be2c70686ff44c87b3726caf ""
+  "Thomas_CV.aux" 1565543175 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
+  "Thomas_CV.out" 1565543175 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Thomas_CV.tex" 1565543170 25494 ee421e2e3398ea9d1667553e0abda7f9 ""
   "resume.cls" 1564088880 4926 8ccc5f2f12a41c102b97e5e45a868ed3 ""
   (generated)
-  "Thomas_CV.aux"
-  "Thomas_CV.log"
-  "Thomas_CV.pdf"
   "Thomas_CV.out"
+  "Thomas_CV.pdf"
+  "Thomas_CV.log"
+  "Thomas_CV.aux"
